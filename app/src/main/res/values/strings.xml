@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="intro">Welcome to TicTacToe--- Made by Anant Gwari</string>
+    <string name="notice">O\'s Turn now!</string>
+</resources>
